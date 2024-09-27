@@ -1,1 +1,4 @@
-# Regression-Alogarithms-
+# REGRESSION-ALGORITHMS
+
+Simple Linear Regressiion
+Multiple Linear Regression
